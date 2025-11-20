@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Slay <code>src/App.js</code> and save to reload.
+          buhuuuuu
         </p>
       </header>
     </div>
